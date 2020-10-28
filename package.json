@@ -1,0 +1,23 @@
+{
+  "name": "ftx-funding-bot",
+  "version": "0.0.1",
+  "description": "ftx-Funding-bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-trading-solutions/ftx-Funding-bot.git"
+  },
+  "keywords": [
+    "trading",
+    "ftx"
+  ],
+  "author": "illuschwo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto-trading-solutions/ftx-Funding-bot/issues"
+  },
+  "homepage": "https://github.com/crypto-trading-solutions/ftx-Funding-bot#readme"
+}
