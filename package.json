@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/crypto-trading-solutions/ftx-Funding-bot/issues"
   },
-  "homepage": "https://github.com/crypto-trading-solutions/ftx-Funding-bot#readme"
+  "homepage": "https://github.com/crypto-trading-solutions/ftx-Funding-bot#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
 }
